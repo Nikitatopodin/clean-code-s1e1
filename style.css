@@ -21,9 +21,11 @@ body {
 }
 
 @media (max-width: 768px) {
+
   .about {
     text-align: center;
   }
+
 }
 
 .todo {
@@ -122,8 +124,8 @@ h3,
   align-items: center;
 }
 
-.todo__list__item > *,
-.todo__list-complete__item > * {
+.todo__list__item>*,
+.todo__list-complete__item>* {
   vertical-align: middle;
 }
 
